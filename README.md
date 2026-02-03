@@ -46,3 +46,14 @@ The app provides real-time directional controls, speed adjustment, and connectio
 - This project focuses on the Android client-side implementation.
 
 ---
+
+## Screenshots
+![Disconnected](screenshots/1.jpeg)
+
+![Connecting](screenshots/2.jpeg)
+
+![Connectedl](screenshots/3.jpeg)
+
+![Move Forward](screenshots/4.jpeg)
+
+![Disconnect](screenshots/5.jpeg)
