@@ -48,12 +48,10 @@ The app provides real-time directional controls, speed adjustment, and connectio
 ---
 
 ## Screenshots
-![Disconnected](screenshots/1.jpeg)
-
-![Connecting](screenshots/2.jpeg)
-
-![Connectedl](screenshots/3.jpeg)
-
-![Move Forward](screenshots/4.jpeg)
-
-![Disconnect](screenshots/5.jpeg)
+<p float="left">
+  <img src="screenshots/1.jpeg" width="250" />
+  <img src="screenshots/2.jpeg" width="250" />
+  <img src="screenshots/3.jpeg" width="250" />
+  <img src="screenshots/4.jpeg" width="250" />
+  <img src="screenshots/5.jpeg" width="250" />
+</p>
