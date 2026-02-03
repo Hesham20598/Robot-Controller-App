@@ -28,7 +28,8 @@ class RobotBluetoothController(
 ) {
 
     companion object {
-        private const val ROBOT_NAME = "OTHERLOGIC"
+        private const val ROBOT_NAME =
+            "OTHERLOGIC" // This is my laptop Bluetooth name , this for testing my application.
         private val SPP_UUID: UUID =
             UUID.fromString("00001101-0000-1000-8000-00805F9B34FB") // Serial Port Profile UUID
     }
